@@ -1,0 +1,2 @@
+# GoRupp
+Go eigene Beispiele
